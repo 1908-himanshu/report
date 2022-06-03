@@ -1,5 +1,4 @@
-# Program to check if a number is prime or not
-
+# Program to check if a number is prime or not prime 
 
 num = int(input("Enter a number: "))
 
